@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://opensnippets.github.io/responsive-bootstrap-cv-theme",
+  "homepage": "https://opensnippets.github.io/responsive-bootstrap-cv-theme",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
