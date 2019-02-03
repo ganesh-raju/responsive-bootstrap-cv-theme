@@ -1,16 +1,19 @@
 {
   "name": "cv-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "bootstrap cv theme",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages-deploy"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cv theme", "bootstrap responsive resume theme", "open snippets", "free bootstrap themes"],
+  "author": "<ganesh></ganesh>",
   "license": "ISC",
   "homepage": "https://opensnippets.github.io/responsive-bootstrap-cv-theme",
   "dependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.1"
   }
 }
