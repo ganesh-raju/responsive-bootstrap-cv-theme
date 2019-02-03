@@ -27,8 +27,16 @@ li a:hover {
 	border: 2px solid #fff;
 	padding: 0.7rem 2rem;
 }
-.skills h6{
-	margin-top: 1.5rem;
-}
 
+
+h6{
+	margin-top: 2rem;
+}
+.progress{
+	height: 0.57rem !important;
+    border-radius: 0px;
+}
+.progress-bar{
+	background-color: #FA7E7E !important;
+}
 
